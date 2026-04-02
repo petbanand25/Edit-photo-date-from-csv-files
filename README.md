@@ -8,3 +8,6 @@ Alot of files had the same names. The icloud servers are case sensitive, but the
 
 I dont know squad about python. this is all chatgpt's work
 
+
+Requires EXIFtool and python ofc 
+
